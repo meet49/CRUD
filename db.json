@@ -1,0 +1,40 @@
+{
+  "Student": [
+    {
+      "name": "SOJITRA MEET PARESHBHAI",
+      "email": "meetsojitra49@gmail.com",
+      "phoneno": "9726771777",
+      "id": 1
+    },
+    {
+      "name": "RADADIYA JAY RASHIKBHAI",
+      "email": "jayradaiya69@gmail.com",
+      "phoneno": "9856745269",
+      "id": 2
+    },
+    {
+      "name": "PADARIYA SHAHIL ",
+      "email": "padariyashahil2@gmail.com",
+      "phoneno": "9632969745",
+      "id": 3
+    },
+    {
+      "name": "MONPARA VAIBHAV",
+      "email": "vaibhavmonpara49@gmail.com",
+      "phoneno": "6351121256",
+      "id": 4
+    },
+    {
+      "name": "MALAVIYA PARTH",
+      "email": "malaviya79@gmail.com",
+      "phoneno": "6351225615",
+      "id": 5
+    },
+    {
+      "name": "SUDANI HIREN ASHOKBHAI",
+      "email": "hiren.sudani@gmail.com",
+      "phoneno": "8959656215",
+      "id": 6
+    }
+  ]
+}
