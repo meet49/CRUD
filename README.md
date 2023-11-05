@@ -12,3 +12,5 @@ Runs the json server in your system and show the api data
 
 If you not run this "json-server --watch db.json --port 4000" code in your terminal
 so not show the data in api and ot run the pogram in your system
+![image](https://github.com/meet49/CRUD/assets/86903849/e1992d1f-bf79-4223-93b7-03a29d176dfb)
+
